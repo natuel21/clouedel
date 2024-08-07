@@ -5,11 +5,7 @@ Cloudel is a lightweight, cross-platform application that allows users to test t
 
 ## Installation
 
-Cloudel is available for download on the following platforms:
 
-- Windows: [Download for Windows](https://github.com/natuel21/cloudel/releases/latest/download/cloudel-windows.exe)
-- macOS: [Download for macOS](https://github.com/natuel21/cloudel/releases/latest/download/cloudel-macos.dmg)
-- Linux: [Download for Linux](https://github.com/natuel21/cloudel/releases/latest/download/cloudel-linux.AppImage)
 
 Simply download the appropriate installer for your operating system and follow the on-screen instructions to complete the installation.
 
